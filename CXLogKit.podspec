@@ -15,7 +15,7 @@ Pod::Spec.new do |spec|
   #  summary should be tweet-length, and the description more in depth.
   #
   spec.name         = "CXLogKit"
-  spec.version      = "0.0.20"
+  spec.version      = "0.0.1"
   spec.summary      = "A short description of CXLogKit."
 
   # This description is used to generate tags and improve search results.
@@ -27,7 +27,7 @@ Pod::Spec.new do |spec|
   基于微信的日志组件
                    DESC
 
-  spec.homepage     = "http://git.bngrp.com/retailer-newapp/BNIosProjects/BasicKits/cxlogkit"
+  spec.homepage     = "https://github.com/lixq677/CXLogKit"
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -52,9 +52,9 @@ Pod::Spec.new do |spec|
   #  profile URL.
   #
 
-  spec.author             = { "lixq10" => "lixq10@bngrp.com" }
+  spec.author             = { "lixq10" => "lixq677@gmail.com" }
   # Or just: spec.author    = "lixq10"
-  # spec.authors            = { "lixq10" => "lixq10@bngrp.com" }
+  # spec.authors            = { "lixq10" => "lixq677@gmail.com" }
   # spec.social_media_url   = "https://twitter.com/lixq10"
 
   # ――― Platform Specifics ――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -79,7 +79,7 @@ Pod::Spec.new do |spec|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :git => "http://git.bngrp.com/retailer-newapp/BNIosProjects/BasicKits/cxlogkit.git", :tag => "#{spec.version}" }
+  spec.source       = { :git => "https://github.com/lixq677/CXLogKit.git", :tag => "#{spec.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
